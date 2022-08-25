@@ -1,5 +1,7 @@
 TOC
 ---
+
+* Resources: https://github.com/vinta/awesome-python#devops-tools
 * Configuration Management
   * Ansible
   * Salt
