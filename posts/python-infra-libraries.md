@@ -2,7 +2,7 @@ TOC
 ---
 
 * Resources: 
-  * [DevOps Tools](shttps://github.com/vinta/awesome-python#devops-tools)
+  * [DevOps Tools](https://github.com/vinta/awesome-python#devops-tools)
   * [CLI Dev](https://github.com/vinta/awesome-python#command-line-interface-development)
   * [CLI Tools](https://github.com/vinta/awesome-python#command-line-tools)
   * [Configuration](https://github.com/vinta/awesome-python#configuration)
